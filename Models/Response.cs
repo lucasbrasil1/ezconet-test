@@ -1,5 +1,4 @@
-﻿using ezconet_test.Errors;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 namespace ezconet_test.Models
 {

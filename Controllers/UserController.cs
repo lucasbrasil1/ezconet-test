@@ -2,13 +2,9 @@
 
 using ezconet_test.Errors;
 using ezconet_test.Models;
-using ezconet_test.Repositories;
 using ezconet_test.Services;
 using ezconet_test.Services.Validators;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using MySql.Data.MySqlClient;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

@@ -1,7 +1,6 @@
 ﻿using ezconet_test.Errors;
 using ezconet_test.Models;
 using FluentValidation;
-using System;
 
 namespace ezconet_test.Services.Validators
 {
